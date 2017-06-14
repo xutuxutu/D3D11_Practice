@@ -1,0 +1,5 @@
+﻿  GameTimer.cpp
+  D3DApp.cpp
+  Generating Code...
+e:\directx\d3d_practice\d3d_practice\d3dapp.cpp(26): error C4716: 'D3DApp::MsgProc': must return a value
+e:\directx\d3d_practice\d3d_practice\gametimer.cpp(26): warning C4715: 'GameTimer::TotalTime': not all control paths return a value
